@@ -9,7 +9,7 @@ dependencies = [
     "onnxruntime",
     "pyannote.audio>=3.3",
     "soundfile",
-    "torch>=2.6",
+    "torch>=2.13.0",
 ]
 
 [dependency-groups]
